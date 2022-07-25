@@ -8,3 +8,4 @@ The base starter project for the Flutter Clima App created in the [Flutter cours
 
 - The [original starter project](https://github.com/londonappbrewery/Clima-Flutter) is out of date due to Flutter's breaking changes
 - Clone this project and get started right away on the Clima Section of the course
+- If you are looking for the full completed Clima project, it can be found [here](https://github.com/Code4TheCommunity/clima)
